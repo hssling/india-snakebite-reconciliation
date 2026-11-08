@@ -1,0 +1,116 @@
+[OK] NCRB 2014 sum of state deaths = TOTAL (ALL INDIA): computed 7846 vs printed 7846
+[OK] NCRB 2014 sum of state cases = TOTAL (ALL INDIA): computed 8484 vs printed 8484
+[OK] NCRB 2015 sum of state deaths = TOTAL (ALL INDIA): computed 8554 vs printed 8554
+[OK] NCRB 2015 sum of state cases = TOTAL (ALL INDIA): computed 8660 vs printed 8660
+[OK] NCRB 2018 sum of state deaths = TOTAL (ALL INDIA): computed 8962 vs printed 8962
+[OK] NCRB 2018 sum of state cases = TOTAL (ALL INDIA): computed 8982 vs printed 8982
+[OK] NCRB 2019 sum of state deaths = TOTAL (ALL INDIA): computed 9224 vs printed 9224
+[OK] NCRB 2019 sum of state cases = TOTAL (ALL INDIA): computed 9236 vs printed 9236
+[OK] NCRB 2020 sum of state deaths = TOTAL (ALL INDIA): computed 9822 vs printed 9822
+[OK] NCRB 2020 sum of state cases = TOTAL (ALL INDIA): computed 9829 vs printed 9829
+[OK] NCRB 2021 sum of state deaths = TOTAL (ALL INDIA): computed 10382 vs printed 10382
+[OK] NCRB 2021 sum of state cases = TOTAL (ALL INDIA): computed 10450 vs printed 10450
+[OK] NCRB 2022 sum of state deaths = TOTAL (ALL INDIA): computed 10096 vs printed 10096
+[OK] NCRB 2022 sum of state cases = TOTAL (ALL INDIA): computed 10085 vs printed 10085
+[OK] NCRB 2023 sum of state deaths = TOTAL (ALL INDIA): computed 10118 vs printed 10118
+[OK] NCRB 2023 sum of state cases = TOTAL (ALL INDIA): computed 10144 vs printed 10144
+[OK] NCRB 2024 sum of state deaths = TOTAL (ALL INDIA): computed 9803 vs printed 9803
+[OK] NCRB 2024 sum of state cases = TOTAL (ALL INDIA): computed 9752 vs printed 9752
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, male cases: computed 95064 vs printed 95064
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, male deaths: computed 580 vs printed 580
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, female cases: computed 63586 vs printed 63586
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, female deaths: computed 480 vs printed 480
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, total cases: computed 158650 vs printed 158650
+[OK] NHP 2019 Table 3.2.9 (A) (data year 2017, final) column sum of states, total deaths: computed 1060 vs printed 1060
+[MISMATCH] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) row 'Meghalaya': M+F cases 325 vs total 327; M+F deaths 0 vs total 0
+[MISMATCH] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) row 'Mizoram': M+F cases 321 vs total 368; M+F deaths 0 vs total 0
+[MISMATCH] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) row 'Nagaland': M+F cases 251 vs total 245; M+F deaths 0 vs total 0
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, male cases: computed 100639 vs printed 100639
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, male deaths: computed 502 vs printed 502
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, female cases: computed 63349 vs printed 63349
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, female deaths: computed 383 vs printed 383
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, total cases: computed 164031 vs printed 164031
+[OK] NHP 2019 Table 3.2.9 (B) (data year 2018, provisional) column sum of states, total deaths: computed 885 vs printed 885
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, male cases: computed 98680 vs printed 101431
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, male deaths: computed 497 vs printed 500
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, female cases: computed 62523 vs printed 64517
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, female deaths: computed 388 vs printed 387
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, total cases: computed 161203 vs printed 165948
+[MISMATCH] NHP 2020 Table 3.2.9 (a) (data year 2018, final) column sum of states, total deaths: computed 885 vs printed 887
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, male cases: computed 98415 vs printed 98415
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, male deaths: computed 1899 vs printed 1899
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, female cases: computed 64309 vs printed 64309
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, female deaths: computed 1264 vs printed 1264
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, total cases: computed 162724 vs printed 162724
+[OK] NHP 2020 Table 3.2.9 (b) (data year 2019, provisional) column sum of states, total deaths: computed 3163 vs printed 3163
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, male cases: computed 105230 vs printed 105230
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, male deaths: computed 1129 vs printed 1129
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, female cases: computed 66570 vs printed 66570
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, female deaths: computed 571 vs printed 571
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, total cases: computed 171800 vs printed 171800
+[OK] NHP 2021 Table 3.2.9 (A) (data year 2019, final) column sum of states, total deaths: computed 1700 vs printed 1700
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, male cases: computed 80038 vs printed 80038
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, male deaths: computed 350 vs printed 350
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, female cases: computed 46889 vs printed 46889
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, female deaths: computed 276 vs printed 276
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, total cases: computed 126927 vs printed 126927
+[OK] NHP 2021 Table 3.2.9 (B) (data year 2020, provisional) column sum of states, total deaths: computed 626 vs printed 626
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, male cases: computed 65154 vs printed 65154
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, male deaths: computed 376 vs printed 376
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, female cases: computed 36601 vs printed 36601
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, female deaths: computed 224 vs printed 224
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, total cases: computed 101755 vs printed 101755
+[OK] NHP 2023 Table 3.2.3 (A) (data year 2021, final) column sum of states, total deaths: computed 600 vs printed 600
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, male cases: computed 62768 vs printed 62768
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, male deaths: computed 318 vs printed 318
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, female cases: computed 41043 vs printed 41043
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, female deaths: computed 207 vs printed 207
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, total cases: computed 103811 vs printed 103811
+[OK] NHP 2023 Table 3.2.3 (B) (data year 2022, provisional) column sum of states, total deaths: computed 525 vs printed 525
+[OK] MCCD 2016 Table 4 sum of state T = All States (Total) T (35 columns, PDF pp.[103, 104]): computed 2408 vs printed 2408
+[OK] MCCD 2017 Table 4 sum of state T = All States (Total) T (35 columns, PDF pp.[104, 105]): computed 1577 vs printed 1577
+[OK] MCCD 2018 Table 4 sum of state T = All States (Total) T (35 columns, PDF pp.[100, 101]): computed 1875 vs printed 1875
+[OK] MCCD 2019 Table 4 sum of state T = All States (Total) T (35 columns, PDF pp.[100, 101]): computed 1692 vs printed 1692
+[OK] MCCD 2020 Table 4 sum of state T = All States (Total) T (34 columns, PDF pp.[119, 120]): computed 1475 vs printed 1475
+[OK] MCCD 2021 Table 4 sum of state T = All States (Total) T (37 columns, PDF pp.[162, 163]): computed 1132 vs printed 1132
+[OK] MCCD 2022 Table 4 sum of state T = All States (Total) T (37 columns, PDF pp.[171, 172]): computed 1638 vs printed 1638
+[OK] MCCD 2023 Table 4 sum of state T = All States (Total) T (36 columns, PDF pp.[168, 169]): computed 1639 vs printed 1639
+[OK] MCCD 2024 Table 4 sum of state T = All States (Total) T (36 columns, PDF pp.[172, 173]): computed 1393 vs printed 1393
+[OK-ROUNDING] MDS Suraweera T3 Higher burden states: sum of member deaths 2001-14 (000): computed 557.5 vs printed 557.4 (tolerance 0.40)
+[OK] MDS Suraweera T3 Higher burden states: sum of member study deaths: computed 1726 vs printed 1726
+[OK-ROUNDING] MDS Suraweera T3 Lower burden states: sum of member deaths 2001-14 (000): computed 250.0 vs printed 249.9 (tolerance 0.60)
+[OK] MDS Suraweera T3 Lower burden states: sum of member study deaths: computed 1107 vs printed 1107
+[OK-ROUNDING] MDS Suraweera T3 All India deaths (000) = higher + lower: computed 807.3 vs printed 807.5 (tolerance 0.25)
+[OK-ROUNDING] MDS Suraweera T4 Lower burden states: sum of member government deaths (000): computed 8.5 vs printed 8.6 (tolerance 0.60)
+[OK-ROUNDING] MDS Suraweera T4 Lower burden states: sum of member MDS total deaths (000): computed 219.6 vs printed 219.8 (tolerance 0.60)
+[OK-ROUNDING] MDS Suraweera T4 Lower burden states: sum of member MDS in-hospital deaths (000): computed 59.7 vs printed 59.6 (tolerance 0.60)
+[OK] MDS Suraweera T4 Higher burden states †: sum of member government deaths (000): computed 6.9 vs printed 6.9 (tolerance 0.40)
+[OK-ROUNDING] MDS Suraweera T4 Higher burden states †: sum of member MDS total deaths (000): computed 539.7 vs printed 539.6 (tolerance 0.40)
+[OK] MDS Suraweera T4 Higher burden states †: sum of member MDS in-hospital deaths (000): computed 94.6 vs printed 94.6 (tolerance 0.40)
+[OK] MDS Mohapatra T2: sum of 13 state deaths (000) = Sub total: computed 42.8 vs printed 42.8 (tolerance 0.65)
+[OK] MDS Mohapatra T2: Sub total + Remaining = All India (000): computed 45.9 vs printed 45.9 (tolerance 0.10)
+[OK] MDS Mohapatra T2: sum of study deaths = Sub total: computed 480 vs printed 480
+[OK] MP compensation Table 1: sum of 51 district deaths FY2020-21 = Total: computed 3019 vs printed 3019
+[OK] MP compensation Table 1: sum of district deaths FY2021-22 = Total: computed 2760 vs printed 2760
+[OK] MP compensation Table 1: sum of district amounts FY2020-21 (lakh) = Total: computed 12076 vs printed 12076
+[NOTE] MP compensation Table 1 'Total' rate columns print 195 and 177 (sums of district rates, not a state rate); abstract says 5728 families vs Table 1 5779
+[OK] ICMR NTF Table 7: sum of 25 district deaths = Total: computed 195 vs printed 195
+[OK] ICMR NTF Table 7: sum of district incidents = Total: computed 7094 vs printed 7094
+[MISMATCH] ICMR NTF Table 7: sum of district populations = Total: computed 59781582 vs printed 59781583
+wrote state_year_source_panel.csv: 1140 rows
+[DIFF-SMALL] Population 2011: sum of 38 units 1216110 vs printed India 1216147 ('000; diff -37)
+[DIFF-SMALL] Population 2012: sum of 38 units 1231989 vs printed India 1232023 ('000; diff -34)
+[DIFF-SMALL] Population 2013: sum of 38 units 1247861 vs printed India 1247899 ('000; diff -38)
+[DIFF-SMALL] Population 2014: sum of 38 units 1263737 vs printed India 1263775 ('000; diff -38)
+[DIFF-SMALL] Population 2015: sum of 38 units 1279613 vs printed India 1279651 ('000; diff -38)
+[DIFF-SMALL] Population 2016: sum of 38 units 1294944 vs printed India 1294976 ('000; diff -32)
+[DIFF-SMALL] Population 2017: sum of 38 units 1309164 vs printed India 1309197 ('000; diff -33)
+[DIFF-SMALL] Population 2018: sum of 38 units 1323384 vs printed India 1323419 ('000; diff -35)
+[DIFF-SMALL] Population 2019: sum of 38 units 1337605 vs printed India 1337640 ('000; diff -35)
+[DIFF-SMALL] Population 2020: sum of 38 units 1351833 vs printed India 1351862 ('000; diff -29)
+[DIFF-SMALL] Population 2021: sum of 38 units 1365458 vs printed India 1365482 ('000; diff -24)
+[DIFF-SMALL] Population 2022: sum of 38 units 1377871 vs printed India 1377901 ('000; diff -30)
+[DIFF-SMALL] Population 2023: sum of 38 units 1390290 vs printed India 1390319 ('000; diff -29)
+[DIFF-SMALL] Population 2024: sum of 38 units 1402711 vs printed India 1402737 ('000; diff -26)
+wrote state_population.csv: 588 rows
+wrote completeness_anchors.csv: 46 rows

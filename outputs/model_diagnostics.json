@@ -1,0 +1,186 @@
+{
+ "S0": {
+  "label": "primary: unit level to 2014, national MDS slope after",
+  "seconds": 6,
+  "max_rhat": 1.0032,
+  "min_neff": 763,
+  "divergences": 0,
+  "deaths_2014": [
+   56540.0,
+   49120.0,
+   63840.0
+  ],
+  "deaths_2024": [
+   52190.0,
+   38740.0,
+   68810.0
+  ],
+  "B_pct_per_year": [
+   -1.9,
+   -3.81,
+   -0.1
+  ]
+ },
+ "S1": {
+  "label": "unit-specific 2001-14 slopes continue",
+  "seconds": 5,
+  "max_rhat": 1.0035,
+  "min_neff": 779,
+  "divergences": 0,
+  "deaths_2014": [
+   56630.0,
+   49030.0,
+   64470.0
+  ],
+  "deaths_2024": [
+   55580.0,
+   40260.0,
+   76430.0
+  ],
+  "B_pct_per_year": [
+   -1.9,
+   -3.77,
+   -0.03
+  ]
+ },
+ "S2": {
+  "label": "flat after 2014",
+  "seconds": 5,
+  "max_rhat": 1.0029,
+  "min_neff": 707,
+  "divergences": 0,
+  "deaths_2014": [
+   56620.0,
+   49330.0,
+   64110.0
+  ],
+  "deaths_2024": [
+   63240.0,
+   55010.0,
+   71620.0
+  ],
+  "B_pct_per_year": [
+   -1.89,
+   -3.82,
+   -0.1
+  ]
+ },
+ "S3": {
+  "label": "anchor-informed post-2014 change (ICMR completeness unknown)",
+  "seconds": 12,
+  "max_rhat": 1.0058,
+  "min_neff": 736,
+  "divergences": 0,
+  "deaths_2014": [
+   57290.0,
+   50370.0,
+   64420.0
+  ],
+  "deaths_2024": [
+   28840.0,
+   20130.0,
+   42790.0
+  ],
+  "B_pct_per_year": [
+   -1.75,
+   -3.59,
+   0.02
+  ],
+  "D_pct_per_year": [
+   -5.98,
+   -9.92,
+   -1.56
+  ],
+  "c_icmr": [
+   0.22,
+   0.122,
+   0.369
+  ],
+  "c_comp": [
+   0.908,
+   0.667,
+   0.996
+  ]
+ },
+ "S4": {
+  "label": "anchor-informed post-2014 change, ICMR assumed ~90% complete",
+  "seconds": 12,
+  "max_rhat": 1.0051,
+  "min_neff": 743,
+  "divergences": 0,
+  "deaths_2014": [
+   57420.0,
+   50250.0,
+   64560.0
+  ],
+  "deaths_2024": [
+   19470.0,
+   13730.0,
+   27800.0
+  ],
+  "B_pct_per_year": [
+   -2.13,
+   -4.08,
+   -0.21
+  ],
+  "D_pct_per_year": [
+   -9.29,
+   -13.18,
+   -5.35
+  ],
+  "c_icmr": [
+   0.75,
+   0.458,
+   0.954
+  ],
+  "c_comp": [
+   0.953,
+   0.789,
+   0.998
+  ]
+ },
+ "S5": {
+  "label": "MDS design effect 1",
+  "seconds": 6,
+  "max_rhat": 1.0062,
+  "min_neff": 487,
+  "divergences": 0,
+  "deaths_2014": [
+   54460.0,
+   45950.0,
+   62070.0
+  ],
+  "deaths_2024": [
+   47760.0,
+   34590.0,
+   63390.0
+  ],
+  "B_pct_per_year": [
+   -2.38,
+   -4.2,
+   -0.56
+  ]
+ },
+ "S6": {
+  "label": "MDS design effect 4",
+  "seconds": 5,
+  "max_rhat": 1.0019,
+  "min_neff": 1014,
+  "divergences": 0,
+  "deaths_2014": [
+   57040.0,
+   48460.0,
+   66900.0
+  ],
+  "deaths_2024": [
+   53910.0,
+   38110.0,
+   76470.0
+  ],
+  "B_pct_per_year": [
+   -1.62,
+   -3.61,
+   0.46
+  ]
+ }
+}

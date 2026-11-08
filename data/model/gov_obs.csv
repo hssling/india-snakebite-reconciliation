@@ -1,0 +1,473 @@
+source,unit,year,deaths
+MCCD,Andhra Pradesh + Telangana (undivided AP),2016,0
+MCCD,Assam,2016,0
+MCCD,Bihar,2016,221
+MCCD,Chhattisgarh,2016,158
+MCCD,Gujarat,2016,21
+MCCD,Haryana,2016,37
+MCCD,Jharkhand,2016,70
+MCCD,Karnataka,2016,474
+MCCD,Kerala,2016,27
+MCCD,Madhya Pradesh,2016,5
+MCCD,Maharashtra,2016,172
+MCCD,Odisha,2016,288
+MCCD,Punjab,2016,80
+MCCD,Rajasthan,2016,93
+MCCD,Tamil Nadu,2016,0
+MCCD,Uttar Pradesh,2016,673
+MCCD,West Bengal,2016,0
+MCCD,MDS residual group: all other states,2016,85
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2016,4
+MCCD,Andhra Pradesh + Telangana (undivided AP),2017,0
+MCCD,Assam,2017,17
+MCCD,Bihar,2017,72
+MCCD,Chhattisgarh,2017,111
+MCCD,Gujarat,2017,25
+MCCD,Haryana,2017,35
+MCCD,Jharkhand,2017,68
+MCCD,Karnataka,2017,384
+MCCD,Kerala,2017,29
+MCCD,Madhya Pradesh,2017,74
+MCCD,Maharashtra,2017,165
+MCCD,Odisha,2017,0
+MCCD,Punjab,2017,54
+MCCD,Rajasthan,2017,209
+MCCD,Tamil Nadu,2017,46
+MCCD,Uttar Pradesh,2017,222
+MCCD,West Bengal,2017,0
+MCCD,MDS residual group: all other states,2017,60
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2017,6
+MCCD,Andhra Pradesh + Telangana (undivided AP),2018,0
+MCCD,Assam,2018,34
+MCCD,Bihar,2018,399
+MCCD,Chhattisgarh,2018,151
+MCCD,Gujarat,2018,22
+MCCD,Haryana,2018,39
+MCCD,Jharkhand,2018,59
+MCCD,Karnataka,2018,350
+MCCD,Kerala,2018,20
+MCCD,Madhya Pradesh,2018,78
+MCCD,Maharashtra,2018,0
+MCCD,Odisha,2018,1
+MCCD,Punjab,2018,53
+MCCD,Rajasthan,2018,196
+MCCD,Tamil Nadu,2018,12
+MCCD,Uttar Pradesh,2018,387
+MCCD,West Bengal,2018,0
+MCCD,MDS residual group: all other states,2018,72
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2018,2
+MCCD,Andhra Pradesh + Telangana (undivided AP),2019,0
+MCCD,Assam,2019,26
+MCCD,Bihar,2019,219
+MCCD,Chhattisgarh,2019,108
+MCCD,Gujarat,2019,11
+MCCD,Haryana,2019,13
+MCCD,Jharkhand,2019,65
+MCCD,Karnataka,2019,272
+MCCD,Kerala,2019,18
+MCCD,Madhya Pradesh,2019,83
+MCCD,Maharashtra,2019,245
+MCCD,Odisha,2019,0
+MCCD,Punjab,2019,39
+MCCD,Rajasthan,2019,120
+MCCD,Tamil Nadu,2019,37
+MCCD,Uttar Pradesh,2019,368
+MCCD,West Bengal,2019,6
+MCCD,MDS residual group: all other states,2019,59
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2019,3
+MCCD,Andhra Pradesh + Telangana (undivided AP),2020,30
+MCCD,Assam,2020,32
+MCCD,Bihar,2020,0
+MCCD,Chhattisgarh,2020,126
+MCCD,Gujarat,2020,23
+MCCD,Haryana,2020,24
+MCCD,Jharkhand,2020,0
+MCCD,Karnataka,2020,267
+MCCD,Kerala,2020,22
+MCCD,Madhya Pradesh,2020,122
+MCCD,Maharashtra,2020,300
+MCCD,Odisha,2020,0
+MCCD,Punjab,2020,9
+MCCD,Rajasthan,2020,127
+MCCD,Tamil Nadu,2020,39
+MCCD,Uttar Pradesh,2020,313
+MCCD,West Bengal,2020,1
+MCCD,MDS residual group: all other states,2020,38
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2020,2
+MCCD,Andhra Pradesh + Telangana (undivided AP),2021,24
+MCCD,Assam,2021,10
+MCCD,Bihar,2021,1
+MCCD,Chhattisgarh,2021,109
+MCCD,Gujarat,2021,33
+MCCD,Haryana,2021,38
+MCCD,Jammu & Kashmir + Ladakh (former J&K state),2021,0
+MCCD,Jharkhand,2021,0
+MCCD,Karnataka,2021,165
+MCCD,Kerala,2021,38
+MCCD,Madhya Pradesh,2021,145
+MCCD,Maharashtra,2021,86
+MCCD,Odisha,2021,0
+MCCD,Punjab,2021,62
+MCCD,Rajasthan,2021,84
+MCCD,Tamil Nadu,2021,44
+MCCD,Uttar Pradesh,2021,235
+MCCD,West Bengal,2021,2
+MCCD,MDS residual group: all other states,2021,53
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2021,3
+MCCD,Andhra Pradesh + Telangana (undivided AP),2022,50
+MCCD,Assam,2022,25
+MCCD,Bihar,2022,22
+MCCD,Chhattisgarh,2022,168
+MCCD,Gujarat,2022,31
+MCCD,Haryana,2022,21
+MCCD,Jammu & Kashmir + Ladakh (former J&K state),2022,11
+MCCD,Jharkhand,2022,21
+MCCD,Karnataka,2022,221
+MCCD,Kerala,2022,4
+MCCD,Madhya Pradesh,2022,147
+MCCD,Maharashtra,2022,24
+MCCD,Odisha,2022,176
+MCCD,Punjab,2022,47
+MCCD,Rajasthan,2022,61
+MCCD,Tamil Nadu,2022,388
+MCCD,Uttar Pradesh,2022,165
+MCCD,West Bengal,2022,0
+MCCD,MDS residual group: all other states,2022,55
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2022,1
+MCCD,Andhra Pradesh + Telangana (undivided AP),2023,6
+MCCD,Assam,2023,18
+MCCD,Bihar,2023,19
+MCCD,Chhattisgarh,2023,142
+MCCD,Gujarat,2023,28
+MCCD,Haryana,2023,26
+MCCD,Jammu & Kashmir + Ladakh (former J&K state),2023,6
+MCCD,Jharkhand,2023,27
+MCCD,Karnataka,2023,200
+MCCD,Kerala,2023,12
+MCCD,Madhya Pradesh,2023,170
+MCCD,Maharashtra,2023,116
+MCCD,Odisha,2023,125
+MCCD,Punjab,2023,16
+MCCD,Rajasthan,2023,62
+MCCD,Tamil Nadu,2023,328
+MCCD,Uttar Pradesh,2023,187
+MCCD,West Bengal,2023,90
+MCCD,MDS residual group: all other states,2023,58
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2023,3
+MCCD,Andhra Pradesh + Telangana (undivided AP),2024,20
+MCCD,Assam,2024,44
+MCCD,Bihar,2024,17
+MCCD,Chhattisgarh,2024,113
+MCCD,Gujarat,2024,34
+MCCD,Haryana,2024,2
+MCCD,Jammu & Kashmir + Ladakh (former J&K state),2024,44
+MCCD,Jharkhand,2024,11
+MCCD,Karnataka,2024,135
+MCCD,Kerala,2024,7
+MCCD,Madhya Pradesh,2024,105
+MCCD,Maharashtra,2024,149
+MCCD,Odisha,2024,11
+MCCD,Punjab,2024,97
+MCCD,Rajasthan,2024,70
+MCCD,Tamil Nadu,2024,269
+MCCD,Uttar Pradesh,2024,212
+MCCD,West Bengal,2024,19
+MCCD,MDS residual group: all other states,2024,31
+MCCD,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2024,3
+NCRB,Andhra Pradesh + Telangana (undivided AP),2014,529
+NCRB,Assam,2014,8
+NCRB,Bihar,2014,45
+NCRB,Chhattisgarh,2014,810
+NCRB,Gujarat,2014,467
+NCRB,Haryana,2014,71
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2014,0
+NCRB,Jharkhand,2014,37
+NCRB,Karnataka,2014,668
+NCRB,Kerala,2014,46
+NCRB,Madhya Pradesh,2014,1823
+NCRB,Maharashtra,2014,971
+NCRB,Odisha,2014,511
+NCRB,Punjab,2014,38
+NCRB,Rajasthan,2014,586
+NCRB,Tamil Nadu,2014,722
+NCRB,Uttar Pradesh,2014,148
+NCRB,West Bengal,2014,320
+NCRB,MDS residual group: all other states,2014,44
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2014,2
+NCRB,Andhra Pradesh + Telangana (undivided AP),2015,702
+NCRB,Assam,2015,11
+NCRB,Bihar,2015,51
+NCRB,Chhattisgarh,2015,886
+NCRB,Gujarat,2015,464
+NCRB,Haryana,2015,81
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2015,0
+NCRB,Jharkhand,2015,38
+NCRB,Karnataka,2015,823
+NCRB,Kerala,2015,56
+NCRB,Madhya Pradesh,2015,2009
+NCRB,Maharashtra,2015,909
+NCRB,Odisha,2015,644
+NCRB,Punjab,2015,66
+NCRB,Rajasthan,2015,609
+NCRB,Tamil Nadu,2015,628
+NCRB,Uttar Pradesh,2015,234
+NCRB,West Bengal,2015,269
+NCRB,MDS residual group: all other states,2015,72
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2015,2
+NCRB,Andhra Pradesh + Telangana (undivided AP),2018,579
+NCRB,Assam,2018,4
+NCRB,Bihar,2018,103
+NCRB,Chhattisgarh,2018,870
+NCRB,Gujarat,2018,372
+NCRB,Haryana,2018,131
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2018,1
+NCRB,Jharkhand,2018,79
+NCRB,Karnataka,2018,561
+NCRB,Kerala,2018,24
+NCRB,Madhya Pradesh,2018,2125
+NCRB,Maharashtra,2018,939
+NCRB,Odisha,2018,973
+NCRB,Punjab,2018,80
+NCRB,Rajasthan,2018,801
+NCRB,Tamil Nadu,2018,386
+NCRB,Uttar Pradesh,2018,359
+NCRB,West Bengal,2018,512
+NCRB,MDS residual group: all other states,2018,61
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2018,2
+NCRB,Andhra Pradesh + Telangana (undivided AP),2019,629
+NCRB,Assam,2019,12
+NCRB,Bihar,2019,85
+NCRB,Chhattisgarh,2019,860
+NCRB,Gujarat,2019,329
+NCRB,Haryana,2019,103
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2019,2
+NCRB,Jharkhand,2019,102
+NCRB,Karnataka,2019,614
+NCRB,Kerala,2019,30
+NCRB,Madhya Pradesh,2019,2232
+NCRB,Maharashtra,2019,795
+NCRB,Odisha,2019,1047
+NCRB,Punjab,2019,97
+NCRB,Rajasthan,2019,752
+NCRB,Tamil Nadu,2019,482
+NCRB,Uttar Pradesh,2019,517
+NCRB,West Bengal,2019,468
+NCRB,MDS residual group: all other states,2019,67
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2019,1
+NCRB,Andhra Pradesh + Telangana (undivided AP),2020,527
+NCRB,Assam,2020,6
+NCRB,Bihar,2020,354
+NCRB,Chhattisgarh,2020,955
+NCRB,Gujarat,2020,253
+NCRB,Haryana,2020,91
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2020,0
+NCRB,Jharkhand,2020,105
+NCRB,Karnataka,2020,636
+NCRB,Kerala,2020,34
+NCRB,Madhya Pradesh,2020,2512
+NCRB,Maharashtra,2020,812
+NCRB,Odisha,2020,1105
+NCRB,Punjab,2020,70
+NCRB,Rajasthan,2020,685
+NCRB,Tamil Nadu,2020,491
+NCRB,Uttar Pradesh,2020,537
+NCRB,West Bengal,2020,597
+NCRB,MDS residual group: all other states,2020,50
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2020,2
+NCRB,Andhra Pradesh + Telangana (undivided AP),2021,548
+NCRB,Assam,2021,2
+NCRB,Bihar,2021,216
+NCRB,Chhattisgarh,2021,909
+NCRB,Gujarat,2021,281
+NCRB,Haryana,2021,92
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2021,0
+NCRB,Jharkhand,2021,132
+NCRB,Karnataka,2021,698
+NCRB,Kerala,2021,33
+NCRB,Madhya Pradesh,2021,2732
+NCRB,Maharashtra,2021,803
+NCRB,Odisha,2021,1019
+NCRB,Punjab,2021,80
+NCRB,Rajasthan,2021,680
+NCRB,Tamil Nadu,2021,698
+NCRB,Uttar Pradesh,2021,844
+NCRB,West Bengal,2021,537
+NCRB,MDS residual group: all other states,2021,78
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2021,0
+NCRB,Andhra Pradesh + Telangana (undivided AP),2022,523
+NCRB,Assam,2022,5
+NCRB,Bihar,2022,311
+NCRB,Chhattisgarh,2022,869
+NCRB,Gujarat,2022,253
+NCRB,Haryana,2022,79
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2022,1
+NCRB,Jharkhand,2022,202
+NCRB,Karnataka,2022,688
+NCRB,Kerala,2022,22
+NCRB,Madhya Pradesh,2022,2487
+NCRB,Maharashtra,2022,771
+NCRB,Odisha,2022,1052
+NCRB,Punjab,2022,84
+NCRB,Rajasthan,2022,754
+NCRB,Tamil Nadu,2022,698
+NCRB,Uttar Pradesh,2022,753
+NCRB,West Bengal,2022,478
+NCRB,MDS residual group: all other states,2022,63
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2022,3
+NCRB,Andhra Pradesh + Telangana (undivided AP),2023,512
+NCRB,Assam,2023,4
+NCRB,Bihar,2023,365
+NCRB,Chhattisgarh,2023,840
+NCRB,Gujarat,2023,243
+NCRB,Haryana,2023,91
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2023,1
+NCRB,Jharkhand,2023,175
+NCRB,Karnataka,2023,720
+NCRB,Kerala,2023,19
+NCRB,Madhya Pradesh,2023,2294
+NCRB,Maharashtra,2023,748
+NCRB,Odisha,2023,1127
+NCRB,Punjab,2023,94
+NCRB,Rajasthan,2023,876
+NCRB,Tamil Nadu,2023,541
+NCRB,Uttar Pradesh,2023,938
+NCRB,West Bengal,2023,454
+NCRB,MDS residual group: all other states,2023,75
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2023,1
+NCRB,Andhra Pradesh + Telangana (undivided AP),2024,485
+NCRB,Assam,2024,6
+NCRB,Bihar,2024,478
+NCRB,Chhattisgarh,2024,1047
+NCRB,Gujarat,2024,240
+NCRB,Haryana,2024,73
+NCRB,Jammu & Kashmir + Ladakh (former J&K state),2024,1
+NCRB,Jharkhand,2024,194
+NCRB,Karnataka,2024,497
+NCRB,Kerala,2024,51
+NCRB,Madhya Pradesh,2024,2271
+NCRB,Maharashtra,2024,675
+NCRB,Odisha,2024,1029
+NCRB,Punjab,2024,72
+NCRB,Rajasthan,2024,739
+NCRB,Tamil Nadu,2024,449
+NCRB,Uttar Pradesh,2024,928
+NCRB,West Bengal,2024,502
+NCRB,MDS residual group: all other states,2024,66
+NCRB,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2024,0
+NHP,Andhra Pradesh + Telangana (undivided AP),2017,87
+NHP,Assam,2017,0
+NHP,Bihar,2017,14
+NHP,Chhattisgarh,2017,52
+NHP,Gujarat,2017,49
+NHP,Haryana,2017,6
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2017,1
+NHP,Jharkhand,2017,2
+NHP,Karnataka,2017,28
+NHP,Kerala,2017,13
+NHP,Madhya Pradesh,2017,96
+NHP,Maharashtra,2017,35
+NHP,Odisha,2017,147
+NHP,Punjab,2017,3
+NHP,Rajasthan,2017,45
+NHP,Tamil Nadu,2017,38
+NHP,Uttar Pradesh,2017,128
+NHP,West Bengal,2017,268
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2017,3
+NHP,Andhra Pradesh + Telangana (undivided AP),2018,127
+NHP,Assam,2018,0
+NHP,Bihar,2018,31
+NHP,Chhattisgarh,2018,33
+NHP,Gujarat,2018,50
+NHP,Haryana,2018,5
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2018,1
+NHP,Jharkhand,2018,2
+NHP,Karnataka,2018,30
+NHP,Kerala,2018,8
+NHP,Madhya Pradesh,2018,39
+NHP,Maharashtra,2018,40
+NHP,Odisha,2018,98
+NHP,Punjab,2018,4
+NHP,Rajasthan,2018,30
+NHP,Tamil Nadu,2018,50
+NHP,Uttar Pradesh,2018,73
+NHP,West Bengal,2018,203
+NHP,MDS residual group: all other states,2018,56
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2018,5
+NHP,Andhra Pradesh + Telangana (undivided AP),2019,468
+NHP,Assam,2019,359
+NHP,Bihar,2019,19
+NHP,Chhattisgarh,2019,38
+NHP,Gujarat,2019,58
+NHP,Haryana,2019,4
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2019,1
+NHP,Jharkhand,2019,10
+NHP,Karnataka,2019,15
+NHP,Kerala,2019,9
+NHP,Madhya Pradesh,2019,23
+NHP,Maharashtra,2019,64
+NHP,Odisha,2019,117
+NHP,Punjab,2019,5
+NHP,Rajasthan,2019,46
+NHP,Tamil Nadu,2019,70
+NHP,Uttar Pradesh,2019,76
+NHP,West Bengal,2019,239
+NHP,MDS residual group: all other states,2019,58
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2019,21
+NHP,Andhra Pradesh + Telangana (undivided AP),2020,54
+NHP,Assam,2020,0
+NHP,Bihar,2020,0
+NHP,Chhattisgarh,2020,36
+NHP,Gujarat,2020,63
+NHP,Haryana,2020,11
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2020,2
+NHP,Jharkhand,2020,6
+NHP,Karnataka,2020,4
+NHP,Kerala,2020,6
+NHP,Madhya Pradesh,2020,14
+NHP,Maharashtra,2020,12
+NHP,Odisha,2020,75
+NHP,Punjab,2020,2
+NHP,Rajasthan,2020,33
+NHP,Tamil Nadu,2020,78
+NHP,Uttar Pradesh,2020,54
+NHP,West Bengal,2020,132
+NHP,MDS residual group: all other states,2020,41
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2020,3
+NHP,Andhra Pradesh + Telangana (undivided AP),2021,101
+NHP,Assam,2021,4
+NHP,Bihar,2021,17
+NHP,Chhattisgarh,2021,32
+NHP,Gujarat,2021,31
+NHP,Haryana,2021,10
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2021,0
+NHP,Jharkhand,2021,6
+NHP,Karnataka,2021,36
+NHP,Kerala,2021,0
+NHP,Madhya Pradesh,2021,5
+NHP,Maharashtra,2021,6
+NHP,Odisha,2021,71
+NHP,Punjab,2021,6
+NHP,Rajasthan,2021,38
+NHP,Tamil Nadu,2021,160
+NHP,Uttar Pradesh,2021,55
+NHP,MDS residual group: all other states,2021,16
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2021,6
+NHP,Andhra Pradesh + Telangana (undivided AP),2022,133
+NHP,Assam,2022,0
+NHP,Bihar,2022,0
+NHP,Chhattisgarh,2022,1
+NHP,Gujarat,2022,21
+NHP,Haryana,2022,12
+NHP,Jammu & Kashmir + Ladakh (former J&K state),2022,0
+NHP,Jharkhand,2022,7
+NHP,Karnataka,2022,32
+NHP,Kerala,2022,0
+NHP,Madhya Pradesh,2022,2
+NHP,Maharashtra,2022,3
+NHP,Odisha,2022,44
+NHP,Punjab,2022,4
+NHP,Rajasthan,2022,32
+NHP,Tamil Nadu,2022,176
+NHP,Uttar Pradesh,2022,36
+NHP,MDS residual group: all other states,2022,19
+NHP,"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",2022,3

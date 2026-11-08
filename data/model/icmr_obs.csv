@@ -1,0 +1,23 @@
+unit,state,district,deaths,district_pop
+Punjab,Punjab,Amritsar,11.0,3077190.0
+Rajasthan,Rajasthan,Bikaner,3.0,2920629.0
+MDS residual group: all other states,Himachal Pradesh,Chamba,4.0,641320.0
+Andhra Pradesh + Telangana (undivided AP),Andhra Pradesh,Chittoor,3.0,5157030.0
+Odisha,Odisha,Cuttack,9.0,3242516.0
+"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",Tripura,Dhalai,2.0,467301.0
+Kerala,Kerala,Ernakulam,2.0,4055370.0
+Punjab,Punjab,Hoshiarpur,11.0,1960265.0
+Rajasthan,Rajasthan,Jaisalmer,1.0,827681.0
+MDS residual group: all other states,Himachal Pradesh,Kangra,22.0,1865688.0
+Kerala,Kerala,Kannur,4.0,3117154.0
+Punjab,Punjab,Ludhiana,19.0,4322670.0
+"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",Mizoram,Lunglei,1.0,199443.0
+MDS residual group: all other states,Uttarakhand,Nainital,10.0,1179408.0
+Maharashtra,Maharashtra,Nanded,29.0,4152855.0
+"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",Arunachal Pradesh,Papum Pare,1.0,218155.0
+Maharashtra,Maharashtra,Pune,13.0,11649974.0
+Maharashtra,Maharashtra,Raigad,16.0,3254537.0
+Odisha,Odisha,Sambalpur,11.0,1286271.0
+"NE-7 (Arunachal, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura)",Tripura,South Tripura,2.0,1082294.0
+Rajasthan,Rajasthan,Udaipur,13.0,3791014.0
+MDS residual group: all other states,Himachal Pradesh,Una,8.0,643906.0
